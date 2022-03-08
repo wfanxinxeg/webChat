@@ -1,6 +1,6 @@
 
-one line
-two line main dooo
+one line test dooo merge
+two line main dooo merge
 three line  test hot do
 main do
 test do
